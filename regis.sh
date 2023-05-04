@@ -1,3 +1,14 @@
+# -------------------------------------------------------------------------------
+# Name:         snmp_cisco_endpoints
+# Purpose:      Get SystemOS from SNMPWalk.
+#
+# Author:      Xavie J. Sierra Moreu <xavie.sierra@gmail.com>
+#
+# Created:     04/052023
+# Copyright:   (c) Xavie J. Sierra Moreu 2022
+# Licence:     GPL
+# -------------------------------------------------------------------------------
+
 #!/bin/bash
 
 # OID para el campo "equipo"
