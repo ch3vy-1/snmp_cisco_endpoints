@@ -1,6 +1,6 @@
 # -------------------------------------------------------------------------------
 # Name:         snmp_cisco_endpoints
-# Purpose:      Get SystemOS from SNMPWalk.
+# Purpose:      Obtener estado de registro de endpoints.
 #
 # Author:      Xavie J. Sierra Moreu <xavie.sierra@gmail.com>
 #
