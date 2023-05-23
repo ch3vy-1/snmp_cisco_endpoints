@@ -6,5 +6,8 @@ Ejecutar el script ./regis.sh
 
 # Resultado:
 El script devuelve un fichero .csv con el estado de registro de los endpoints. 
-3 = Unregistered
-2 = Registered
+1:unknown
+2:registered
+3:unregistered
+4:rejected
+5:partiallyregistered
